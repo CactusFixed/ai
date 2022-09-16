@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - Enemies
+  - Spike
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NPC
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1793949703
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: environment
+    uniqueID: 1696257037
+    locked: 0
+  - name: ground
+    uniqueID: 3898240047
+    locked: 0
+  - name: collection
+    uniqueID: 1047666873
+    locked: 0
+  - name: player
+    uniqueID: 146749775
+    locked: 0
+  - name: frontground
+    uniqueID: 23549555
+    locked: 0
